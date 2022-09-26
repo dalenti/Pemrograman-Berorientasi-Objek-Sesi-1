@@ -10,10 +10,6 @@ public class JavaPBOno1 {
         JOptionPane.showMessageDialog(null, "Sangat mudah sekali");
         JOptionPane.showMessageDialog(null, "dan sangat menyenangkan");
     
-    System.out.println("Belajar JAVA");
-    System.out.println("Sangat mudah sekali");
-    System.out.println("dan sangat menyenangkan");
-    
        
     }
 }
